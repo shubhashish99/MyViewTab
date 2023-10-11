@@ -36,7 +36,7 @@ pipeline {
 
 echo 'deploy started'
 
- bat 'atlas-install-plugin --username kirubakiru31 --password Kiruba@8301 --server localhost --http-port 3031 --plugin-key com.atlassian.plugins.jiratraining.MyViewTab --context-path ""'
+ bat 'atlas-install-plugin --username shubhashish --password Reset@777 --server localhost --http-port 8080 --plugin-key com.atlassian.plugins.jiratraining.MyViewTab --context-path ""'
 
  }
 
